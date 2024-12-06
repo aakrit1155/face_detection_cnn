@@ -1,3 +1,5 @@
+# Custom Data Folders
+data_collected/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
