@@ -1,5 +1,10 @@
 # Custom Data Folders
 data_collected/
+data_augmented/
+test/
+train/
+val/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
