@@ -1,0 +1,7 @@
+jupyter
+tensorflow
+tensorflow-gpu
+opencv-python
+matplotlib
+labelme
+albumentations
